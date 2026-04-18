@@ -68,3 +68,10 @@ Please download the dataset and place it in the `data_in/` folder to reproduce t
 
 The notebook outputs are pre-rendered.  
 To rerun the analysis, the dataset must be downloaded and placed in the correct directory.
+---
+## ▶️ How to Run
+
+1. Download the dataset from Kaggle  
+2. Place it in the `data_in/` folder  
+3. Open `Dual_fuel_Work_flow.ipynb`  
+4. Run all cells
